@@ -1,0 +1,32 @@
+Leitung zu Bedienteil
+	
+1.		VCC
+2.		GND
+3.		Reset
+
+4.		A1
+5.		A2
+6.		A3
+7.		A4
+8.		A5
+9.		A6
+
+10.	SCK
+12.	/SCK
+13.	MOSI
+14.	/MOSI
+15.	CS_TFT
+16.	/CS_TFT
+17.	DC_TFT
+18.	/DC_TFT
+
+19.	BTN_1 / BTN_2
+20.	NOTAUS
+
+Schirmung GND
+
+DVI Buchse Conrad 	530294	2,90€
+http://www.conrad.de/ce/de/product/530294/DVI-Steckverbinder-Buchse-Einbau-horizontal-Polzahl-29-Silber-BKL-Electronic-909000-1-St?ref=searchDetail
+
+Amazon DVI Kabel 7,5m 
+http://www.amazon.de/gp/product/B0088D32W4/ref=noref?ie=UTF8&psc=1&s=ce-de
