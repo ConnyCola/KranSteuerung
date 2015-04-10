@@ -183,6 +183,7 @@
 <text x="61.595" y="41.275" size="5.08" layer="25" font="vector" ratio="12">3</text>
 <text x="61.595" y="49.53" size="5.08" layer="25" font="vector" ratio="12">6</text>
 <text x="98.425" y="86.36" size="1.27" layer="25" font="vector" ratio="12" rot="R90">GND</text>
+<text x="93.0275" y="73.66" size="1.27" layer="25" font="vector" ratio="12" rot="R90">Arduino Pro Mini</text>
 <text x="30.1625" y="69.215" size="1.27" layer="25" font="vector" ratio="12">MCP3008</text>
 <text x="49.2125" y="69.215" size="1.27" layer="25" font="vector" ratio="12">74HC4017</text>
 <text x="11.1125" y="81.5975" size="1.016" layer="25" font="vector" ratio="12">100n 50k</text>
